@@ -1,4 +1,4 @@
-.navbar{
+ .navbar{
     width: 90%;
     margin: auto;
     height: 80px;
@@ -7,28 +7,34 @@
     display: flex;
     justify-content: space-between;
     color: white;
+    padding-left: 15px;
 }
-#two{
+
+#Links{
     display: flex;
-    width: 60%;
+    width: 25%;
     justify-content: space-between;
-    margin-top:8px ;
+    margin-top:15px ;
+    font-size: 13px;
 }
-#btn{
+
+#Btn{
    border-radius: 10px;
     color: white;
-    margin-right: 15px;
+    margin-right: 50px;
     background-color: #0086ac;
     height: 35px;
     padding-left: 20px;
     padding-right: 20px;
 }
-#one{
+#Logo{
     margin-top: 30px;
-    margin-left: 15px;
+    margin-left: 50px;
     margin-right: 15px;
 }
 
-#three{
+#Btn{
     margin-top: 25px;
-}
+} 
+
+
