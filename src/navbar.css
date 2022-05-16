@@ -1,0 +1,34 @@
+.navbar{
+    width: 90%;
+    margin: auto;
+    height: 80px;
+    background-color: black;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+#two{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    margin-top:8px ;
+}
+#btn{
+   border-radius: 10px;
+    color: white;
+    margin-right: 15px;
+    background-color: #0086ac;
+    height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#one{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#three{
+    margin-top: 25px;
+}
